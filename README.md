@@ -1,9 +1,6 @@
 ### Hola 👋, I'm Tushan Das
 
 
-                            **WEB DEVELOPER**
-
-
 - 🔭 I’m currently studying Computer Science in **Institute of Engineering and Management.**
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on ...
