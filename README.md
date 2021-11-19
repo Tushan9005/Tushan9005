@@ -1,7 +1,7 @@
 ### Hola 👋, I'm Tushan Das
 
 
-**Tushan9005/Tushan9005**
+                            **WEB DEVELOPER**
 
 
 - 🔭 I’m currently studying Computer Science in **Institute of Engineering and Management.**
