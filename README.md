@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **dastushan9005@gmail.com**
+- 📫 How to reach me **tushandas.official@gmail.com**
 
 - ⚡ Fun fact **Roses are red violets are blue, Unexpected '{' on line 32.**
 
